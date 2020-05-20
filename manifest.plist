@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://test.com</string>
+					<string>https://raw.githubusercontent.com/logcheng/IPA-TEST/master/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://test.com</string>
+					<string>https://raw.githubusercontent.com/logcheng/IPA-TEST/master/icon-1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
